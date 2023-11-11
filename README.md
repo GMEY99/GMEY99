@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @GMEY99, also known as Gamal Ragab.
+- 🎓 I'm a Civil and Environmental Engineering graduate from Alexandria University, Egypt (2023).
+- 🌐 I'm passionate about leveraging data analysis and AI tools to solve complex challenges and drive innovative solutions.
+- 💻 Proficient in Python programming, data analytics, web scraping, and AI tools.
+- 📊 I enjoy exploring and analyzing datasets, creating visualizations, and extracting meaningful insights.
+- 🚀 Currently learning and expanding my skills in SQL and Tableau.
+- 💬 Open to collaboration on projects related to data analytics, AI, and anything at the intersection of technology and problem-solving.
+- 📫 You can reach me via [email](es-mrgmey@alexu.edu.eg) or connect on [LinkedIn](http://linkedin.com/in/gamal-ragab-4231a6250).
