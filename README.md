@@ -5,4 +5,4 @@
 - 📊 I enjoy exploring and analyzing datasets, creating visualizations, and extracting meaningful insights.
 - 🚀 Currently learning and expanding my skills in SQL and Tableau.
 - 💬 Open to collaboration on projects related to data analytics, AI, and anything at the intersection of technology and problem-solving.
-- 📫 You can reach me via [email](es-mrgmey@alexu.edu.eg) or connect on [LinkedIn](http://linkedin.com/in/gamal-ragab-4231a6250).
+- 📫 You can reach me via email (es-mrgmey@alexu.edu.eg) or connect on [LinkedIn](http://linkedin.com/in/gamal-ragab-4231a6250).
